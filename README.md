@@ -32,11 +32,7 @@
 
 #### 🌱 I’m currently learning
 
-🔭 FullCycle <br />
-🔭 FullStack <br />
-🔭 Backend <br />
-🔭 Frontend <br />
-🔭 Mobile
+🔭 FullCycle <br />   🔭 FullStack <br />   🔭 Backend <br />   🔭 Frontend <br />   🔭 Mobile
 
 <br />
 <br />
