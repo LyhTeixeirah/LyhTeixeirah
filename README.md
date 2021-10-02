@@ -2,7 +2,7 @@
 	
 ### Lielses Teixeira
 
-🔭 I’m currently working on Support to Software
+🔭 I’m currently working on consumer software support.
 
 
 #### Skills
