@@ -2,7 +2,7 @@
 	
 ### Lielses Teixeira
 
-🔭 I’m currently working on consumer software support.
+🔭 I'm currently working with React Native.
 
 
 #### Skills
